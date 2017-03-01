@@ -1,0 +1,12 @@
+{
+    "widgets": [
+        {
+            "id": "contentBuilder",
+            "title": "contentBuilder",
+            "settings": {
+                "viewUrl": "index.html",
+                "example_setting": "some value"
+            }
+        }
+    ]
+}
